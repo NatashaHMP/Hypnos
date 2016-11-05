@@ -9,11 +9,28 @@ FOCAR NO PROBLEMA
 App para apneia do sono
    - OBJETIVO: Capaz de identificar estados/saúde durante o sono. 
    - PROBLEMA: idenficar e resolver problemas durante o sono, causando uma falta de descanço durante a noite, causando um mal estar durante o dia.
-   - Agentes: Indicação de clínicas, versão paciente, versão medico, 
+   - Agentes: Indicação de clínicas, versão paciente incluindo tratamento e análise inicial, versão medico.
 
    - apeia causa: dores de cabeça, leva a pessoa a morte (em casos extremos), falta de respiração, ronco, sonolência excessiva durante o dia, falta de memória, problemas de concentração, irritabilidade.
 
 Empreendedorismo
   - Realizar um tipo de relacionamento com medico e paciente. Levando os dados do paciente para medico.
 
+Análise -> Indicação -> Tratamento
 
+Análise
+ - Coleta de informações
+ - Identificação de doença (probabilidade)
+ - Foco na Apneia e seus níveis
+
+Indicação
+ - Clínicas proximas
+ - Recomendações/soluções genéricas
+   - Exercícios
+   - Alimentação 
+
+Tratamento
+ - Realização do tratamento com o medico
+ - Realização do processo de análise de forma contínua
+   - Enviar as informações coletadas para o medico.
+   - Medico pode realizar feedbacks constantes baseado no resultado obtido durante as noites.
