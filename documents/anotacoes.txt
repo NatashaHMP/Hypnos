@@ -4,8 +4,6 @@ FOCAR NO PROBLEMA
   - 
 
 
-
-
 App para apneia do sono
    - OBJETIVO: Capaz de identificar estados/saúde durante o sono. 
    - PROBLEMA: idenficar e resolver problemas durante o sono, causando uma falta de descanço durante a noite, causando um mal estar durante o dia.
@@ -20,11 +18,24 @@ Análise -> Indicação -> Tratamento
 
 Análise
  - Coleta de informações
+   - Coleta de movimento
+     - IoT
+       - iWatch 
+     - Celular
+
+   - Coleta de som
+    - IoT
+      - iWatch
+    - Celular
+
  - Identificação de doença (probabilidade)
  - Foco na Apneia e seus níveis
 
+Lembretes de recomendações medicas
+
 Indicação
  - Clínicas proximas
+ - Tratamento indicado
  - Recomendações/soluções genéricas
    - Exercícios
    - Alimentação 
@@ -34,3 +45,13 @@ Tratamento
  - Realização do processo de análise de forma contínua
    - Enviar as informações coletadas para o medico.
    - Medico pode realizar feedbacks constantes baseado no resultado obtido durante as noites.
+
+
+Ferramentas
+  APIs - 
+
+Comercialização
+  - Medico
+   - Pagamento ao medico a cada resposta
+  - Clínica
+  - Aumento de opções e recursos em versões pagas
