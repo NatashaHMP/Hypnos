@@ -1,0 +1,30 @@
+http://www.tricedesigns.com/2015/07/13/voice-driven-native-mobile-apps-with-ibm-watson/
+
+https://github.com/triceam/IBM-Watson-Speech-QA-iOS
+
+https://www.ibm.com/marketplace/cognitive/cognitive-apps/us/en-us
+
+https://github.com/watson-developer-cloud/ios-sdk
+
+Voice Driven Apps with IBM Watson - Mobile App Intro:
+https://www.youtube.com/watch?v=XXBTqrhV63w
+
+https://github.com/watson-developer-cloud/audio-analysis-application-starter-kit
+
+https://www.ibm.com/watson/developercloud/alchemy-language.html
+
+https://github.com/watson-developer-cloud/node-red-node-watson
+
+to track personal health progress in physical therapy using HealthKit and Google Fit:
+https://github.com/IBM-MIL/IBM-Ready-App-for-Healthcare
+
+https://www.sitepoint.com/connecting-a-raspberry-pi-to-ibm-watson-and-bluemix/
+
+https://www.ibm.com/developerworks/cloud/library/cl-bluemix-fundamentals-create-and-deploy-a-node-app-to-the-cloud/
+
+https://www.raywenderlich.com/61264/write-ios-app-uses-node-jsmongodb-web-service
+
+https://github.com/IBM-Bluemix/node-helloworld
+
+Send email, sms...API
+https://www.twilio.com/
